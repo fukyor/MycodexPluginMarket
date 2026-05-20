@@ -7,7 +7,7 @@
   },
   "skills": "./skills/",
   "interface": {
-    "displayName": "毕业论文写作",
+    "displayName": "graduation-thesis-writer",
     "shortDescription": "根据代码库撰写中文毕业设计论文和说明书。",
     "longDescription": "该插件将 毕业论文写作 skill 封装为可在 Codex 插件市场中安装和使用的本地插件。",
     "developerName": "本地开发者",
