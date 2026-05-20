@@ -1,0 +1,20 @@
+{
+  "name": "my-plugin",
+  "version": "0.1.0",
+  "description": "我的插件示例",
+  "author": {
+    "name": "本地开发者"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "我的插件",
+    "shortDescription": "在 Codex 中使用我的插件示例。",
+    "longDescription": "我的插件提供一个本地 Codex 插件脚手架示例。",
+    "developerName": "本地开发者",
+    "category": "生产力",
+    "capabilities": [],
+    "defaultPrompt": "帮我使用我的插件示例。"
+  },
+  "mcpServers": "./.mcp.json",
+  "apps": "./.app.json"
+}

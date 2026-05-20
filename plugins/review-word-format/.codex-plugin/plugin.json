@@ -1,0 +1,20 @@
+{
+  "name": "review-word-format",
+  "version": "0.1.0",
+  "description": "审查 .docx 的标题层级、版面、分页和转换风险。",
+  "author": {
+    "name": "本地开发者"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Word 格式审查",
+    "shortDescription": "审查 .docx 的标题层级、版面、分页和转换风险。",
+    "longDescription": "该插件将 Word 格式审查 skill 封装为可在 Codex 插件市场中安装和使用的本地插件。",
+    "developerName": "本地开发者",
+    "category": "生产力",
+    "capabilities": [
+      "Skill"
+    ],
+    "defaultPrompt": "帮我审查这个 Word 文档的格式。"
+  }
+}

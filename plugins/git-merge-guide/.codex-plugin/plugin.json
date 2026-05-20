@@ -1,0 +1,20 @@
+{
+  "name": "git-merge-guide",
+  "version": "0.1.0",
+  "description": "按安全确认流程处理分支比对、合并和冲突。",
+  "author": {
+    "name": "本地开发者"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Git 合并指引",
+    "shortDescription": "按安全确认流程处理分支比对、合并和冲突。",
+    "longDescription": "该插件将 Git 合并指引 skill 封装为可在 Codex 插件市场中安装和使用的本地插件。",
+    "developerName": "本地开发者",
+    "category": "生产力",
+    "capabilities": [
+      "Skill"
+    ],
+    "defaultPrompt": "帮我安全地分析并合并 Git 分支。"
+  }
+}

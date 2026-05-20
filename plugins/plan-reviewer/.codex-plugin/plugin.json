@@ -1,0 +1,20 @@
+{
+  "name": "plan-reviewer",
+  "version": "0.1.0",
+  "description": "审查代码实现计划，发现冗余、逻辑风险和潜在缺陷。",
+  "author": {
+    "name": "本地开发者"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "计划审查",
+    "shortDescription": "审查代码实现计划，发现冗余、逻辑风险和潜在缺陷。",
+    "longDescription": "该插件将 计划审查 skill 封装为可在 Codex 插件市场中安装和使用的本地插件。",
+    "developerName": "本地开发者",
+    "category": "生产力",
+    "capabilities": [
+      "Skill"
+    ],
+    "defaultPrompt": "帮我审查这个实现计划。"
+  }
+}

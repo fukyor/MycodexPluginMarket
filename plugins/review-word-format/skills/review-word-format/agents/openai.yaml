@@ -1,0 +1,4 @@
+interface:
+  display_name: "Word 格式审查"
+  short_description: "审查 DOCX、PDF 与页面截图中的格式和版面问题，支持编辑完成后复查"
+  default_prompt: "使用 $review-word-format 审查这个 Word 文档的格式，并报告可执行的问题清单。"
